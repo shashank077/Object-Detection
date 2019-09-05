@@ -5,6 +5,8 @@
 # Tensorflow
 # RetinaNet detection Model
 # An IDE (eg.Pycharm)
-![alt text](https://github.com/shashank077/Object-Detection/blob/master/Screenshot%20(122).png)
+[SCREENSHOT OUTPUT:1](https://github.com/shashank077/Object-Detection/blob/master/Screenshot%20(122).png)
+[SCREENSHOT OUTPUT:2](https://github.com/shashank077/Object-Detection/blob/master/Screenshot%20(122).png)
+![alt text]((https://github.com/shashank077/Object-Detection/blob/master/imagenew.jpg)
 # On one of my captures
 ![alt text](https://github.com/shashank077/Object-Detection/blob/master/imagenew.jpg)
