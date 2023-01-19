@@ -1,4 +1,3 @@
-![alt text](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 # Object-Detection
 [Source CODE](https://github.com/shashank077/Object-Detection/blob/master/Firstdetection.py)
 # Libraries,Packages and Utilities used:
